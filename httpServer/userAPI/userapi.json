@@ -1,0 +1,66 @@
+{
+    "results": [
+    {
+    "gender": "male",
+    "name": {
+    "title": "Monsieur",
+    "first": "Simon",
+    "last": "Lopez"
+    },
+    "location": {
+    "street": {
+    "number": 2196,
+    "name": "Place de L'Abbé-Jean-Lebeuf"
+    },
+    "city": "Walchwil",
+    "state": "Thurgau",
+    "country": "Switzerland",
+    "postcode": 5614,
+    "coordinates": {
+    "latitude": "-60.6899",
+    "longitude": "-164.5788"
+    },
+    "timezone": {
+    "offset": "-7:00",
+    "description": "Mountain Time (US & Canada)"
+    }
+    },
+    "email": "simon.lopez@example.com",
+    "login": {
+    "uuid": "e9333fce-9495-4377-8c98-fcd38bae83f0",
+    "username": "orangelion964",
+    "password": "shakur",
+    "salt": "LrKumDEI",
+    "md5": "10ee096c9702c684179aaaa425f8ed9a",
+    "sha1": "fe457d29a6ce3f1714095894e8b3b1bff5c09dcb",
+    "sha256": "45771bfc92b35d032dbcb2acf59ab9cfe02e5afedc71fac8907ac3160d192895"
+    },
+    "dob": {
+    "date": "1987-04-20T23:41:01.935Z",
+    "age": 36
+    },
+    "registered": {
+    "date": "2019-01-18T08:19:18.699Z",
+    "age": 4
+    },
+    "phone": "078 695 19 05",
+    "cell": "077 795 56 46",
+    "id": {
+    "name": "AVS",
+    "value": "756.8745.9059.00"
+    },
+    "picture": {
+    "large": "https://randomuser.me/api/portraits/men/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    },
+    "nat": "CH"
+    }
+    ],
+    "info": {
+    "seed": "572ebbb04a6003da",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+    }
+    }
